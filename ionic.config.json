@@ -1,0 +1,7 @@
+{
+  "name": "Ionic Cal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
